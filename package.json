@@ -9,7 +9,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "heroku-postbuild": "ng build --prod",
-    "dist": "http-server -c-1 ./dist/pdf-viewer"
+    "dist": "http-server -c-1 ./dist"
   },
   "private": true,
   "dependencies": {
